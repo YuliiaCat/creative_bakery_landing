@@ -15,7 +15,7 @@
 
 -Visual Studio Code: Mentioned as a commonly used code editor for writing and editing code.
 
--Web Hosting: The website may have been deployed to a web hosting service, such as GitHub Pages, for public access.
+-Web Hosting: The website have been deployed to a web hosting service, such as GitHub Pages, for public access.
 
 3. Demo link: https://yuliiacat.github.io/creative_bakery_landing/
 
