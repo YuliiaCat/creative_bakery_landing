@@ -30,6 +30,3 @@ Instruction:
 3.Run npm install
 4.Run start
 
-
-
-
